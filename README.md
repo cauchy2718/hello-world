@@ -1,4 +1,3 @@
 # hello-world
-Just another repository
 
-...nothing to see here.
+...nothing to see here. Or is there?
